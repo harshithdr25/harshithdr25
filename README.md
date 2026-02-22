@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Harshith D R
 
-<!--
-**harshithdr25/harshithdr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE in Information Science & Engineering  
+💻 Java | Spring Boot | SQL | MySQL  
+🌱 Learning Full Stack Java Development  
+📷 Wildlife Photography Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Java, OOPs, Collections
+- Spring Boot, JPA, Hibernate
+- SQL, MySQL
+- HTML, CSS
+- Python (Basics)
+
+---
+
+## 📌 Projects
+- 🛡️ **Cyber Security Notes & Practice**  
+  Repository: `cyber-security`
+
+- 🧠 **Steganography (Python)**  
+  Repository: `stegofile2`
+
+- 📄 **Resume & Profile Website**  
+  Repository: `harshith-cv`
+
+- 🧪 **Practice / Experiments**  
+  Repository: `pro`
+
+---
+
+## 🌱 Currently Working On
+- Improving Spring Boot backend skills  
+- Building small Java projects  
+- Learning Full Stack Java  
+
+---
+
+## 📫 Contact
+- LinkedIn: (add later)
+- Email: (add later)
